@@ -1,4 +1,4 @@
-## **Sorting Visualizer Project**
+# **Sorting Visualizer Project**
 
 ---
 
